@@ -140,6 +140,6 @@ This project aims to bridge that gap by providing a practical prototype implemen
 **Aditya Agrawal**  
 M.Tech (Cyber Security)  
 Department of Computer Engineering
-NIT Kurukshetra
+(NIT Kurukshetra)
 
 *Project developed as part of academic research in digital forensics.*
